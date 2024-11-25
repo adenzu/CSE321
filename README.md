@@ -1,16 +1,16 @@
 # CSE321
-Assignments of GTU Introduction to Algorithm Design of 2022 Fall 
+Assignments of GTU Introduction to Algorithm Design of 2022 Fall
 
-hw1 98  
-hw2 92  
-hw3 60  
-hw4 90  
-hw5 80  
+| Task               | Score  |
+|--------------------|--------|
+| HW1               | 98     |
+| HW2               | 92     |
+| HW3               | 60     |
+| HW4               | 90     |
+| HW5               | 80     |
+| Assignment Average | 84     |
+| Midterm           | 59     |
+| Final             | 38     |
+| Total Average     | 60.40  |
 
-
-assignment average  84	  
-midterm             59	  
-final               38	  
-total average       60,40  
-
-letter grade        BA  
+**Letter Grade:** BA
